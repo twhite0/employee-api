@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<APIProxy revision="1" name="Employees-API">
+<APIProxy revision="2" name="Employees-API">
     <Basepaths>/employees-api</Basepaths>
     <ConfigurationVersion majorVersion="4" minorVersion="0"/>
-    <CreatedAt>1526311867146</CreatedAt>
+    <CreatedAt>1526314233700</CreatedAt>
     <CreatedBy>traviswhite@discover.com</CreatedBy>
     <Description></Description>
     <DisplayName>Employees-API</DisplayName>
-    <LastModifiedAt>1526311867146</LastModifiedAt>
+    <LastModifiedAt>1526314233700</LastModifiedAt>
     <LastModifiedBy>traviswhite@discover.com</LastModifiedBy>
-    <ManifestVersion>SHA-512:056e928a03bebf5ccab61cbc82e1281e0248197c2a1bd8d8475c96ed645889b360a7a314e06c940b2864b4fdd4a41a29324e019cde7177d5abe0b1a088a9ad48</ManifestVersion>
-    <Policies/>
+    <ManifestVersion>SHA-512:e09d54a92b4dd56482b887207ec9e7e27e457f4cbc780d3e8d862a54900c12a285351bbbfa3b739163ab8eb89f865154ddf4473ba53a15fbe085c031c1be53ec</ManifestVersion>
+    <Policies>
+        <Policy>Spike-Arrest-1</Policy>
+    </Policies>
     <ProxyEndpoints>
         <ProxyEndpoint>default</ProxyEndpoint>
     </ProxyEndpoints>

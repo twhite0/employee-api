@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest name="manifest">
-    <Policies/>
+    <Policies>
+        <VersionInfo resourceName="Spike-Arrest-1" version="SHA-512:b09f3a941beba1397630afee32b92be51ecbb132e32c0d29d1cf3d40932011ac50ea30e463855460da17d241195c509972678a4ff3f529969398c47d2fe43232"/>
+    </Policies>
     <ProxyEndpoints>
-        <VersionInfo resourceName="default" version="SHA-512:84cd1e7f848119c5b88b0cabe60d9a9d783aac0865acd71ec38e70ae587ed3c3d231ec86b941eac5506b8af7a2add6f78692dbc12cbebc6f639aef0f06afd168"/>
+        <VersionInfo resourceName="default" version="SHA-512:405516a12fbad8ad48a711c9493eb50d1e8f0cea742e0e0c54db290bc4a427aeac451144e6d5c1977c952f992d21ac6438455f5f963c336b22255675efbc1a7d"/>
     </ProxyEndpoints>
     <Resources>
         <VersionInfo resourceName="openapi://association.json" version="SHA-512:19f37c589c03b089998d8a5a94b166b7d00401e6abad16c28491fde19198cc4d7f91d4071439812e045cc6c09446dfd44e7d4bb6cb4422a9988f4c5c4d8e5178"/>
