@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="Employees-API">
+    <Basepaths>/employees-api</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1526311867146</CreatedAt>
+    <CreatedBy>traviswhite@discover.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>Employees-API</DisplayName>
+    <LastModifiedAt>1526311867146</LastModifiedAt>
+    <LastModifiedBy>traviswhite@discover.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:056e928a03bebf5ccab61cbc82e1281e0248197c2a1bd8d8475c96ed645889b360a7a314e06c940b2864b4fdd4a41a29324e019cde7177d5abe0b1a088a9ad48</ManifestVersion>
+    <Policies/>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources>
+        <Resource>openapi://association.json</Resource>
+    </Resources>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
